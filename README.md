@@ -8,6 +8,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
+
 Pour executer en local le projet Open Transpor, vous devez au préalable installer :
 
 Un navigateur web
@@ -53,6 +54,7 @@ Merci de lire les fichiers :
 ## Auteurs
 
 * O. C.
+* S. R.
 
 ## License
 
